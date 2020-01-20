@@ -2,6 +2,7 @@ import json
 import math
 
 from os import getenv
+import requests
 
 
 def geolocation_calc(request):
